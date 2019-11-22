@@ -23,6 +23,7 @@ source activate molecule_feature_predict
 * biopandas
 * keras >=2.00 && <=2.0.7
 * tensorflow==1.10.0
+* scikit-learn
 
 ## Tutorial
 Prepare a `.csv` file (for example, `test.csv`) which contains molecular SMILES, and using the command to create different molecular representations(`SYBYL.csv, ECFP.csv, ECFP_SYBYL.csv, ECFP_num.csv`):
