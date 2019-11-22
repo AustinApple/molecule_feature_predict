@@ -1,7 +1,7 @@
 # Molecular feature and IE&EA prediction
 This repository contains code for converting molecule stucture into four different representations(SYBYL, ECFP, ECFP&SYBYL, ECFP_num). Additionally, corresponding model had been trained by Material project database. These models can be used to predict ionization energy (IE) and electron affinity (EA) from molecular structure.
 
-## install
+## Evironment Setting
 ### via Anaconda
 Create a conda environment:
 
